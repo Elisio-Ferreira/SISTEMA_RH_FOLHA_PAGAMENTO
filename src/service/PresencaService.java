@@ -6,7 +6,6 @@ import model.Presenca;
 import repository.PresencaRepository;
 import java.time.LocalDate;
 import java.util.List;
-import java.util.Optional;
 
 public class PresencaService {
     private final PresencaRepository repository = new PresencaRepository();
